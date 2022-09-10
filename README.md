@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/kauanvt">
@@ -16,6 +16,6 @@
  
 <div>  
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kauanvt/kauanvt/blob/output/github-contribution-grid-snake.svg)
 
 </div>
