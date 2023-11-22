@@ -16,6 +16,8 @@
  
 <div>  
  
-  ![Snake animation](https://github.com/kauanvt/kauanvt/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/KauanVt/Kauanvt/blob/output/github-contribution-grid-snake.svg)
+
+
 
 </div>
